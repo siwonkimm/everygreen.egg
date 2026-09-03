@@ -1,4 +1,76 @@
 [에그_compressed.pdf](https://github.com/user-attachments/files/31797656/_compressed.pdf)
+# 🥚 에그 (Every Green)
+> **대학생을 위한 3대 디톡스(디지털·신체·지구) 및 지역 상생 웰니스 플랫폼**
+
+---
+
+## 📌 Project Overview
+- **서비스명**: 에그 (Every Green)
+- **타깃**: 고자극 도파민 중독(숏폼, 야식, 일회용품)에 노출된 대학생
+- **핵심 컨셉**: 하루 1회 인증, 게이미피케이션(캐릭터 성장), 학과 대항전 및 소상공인 연계 리워드
+
+---
+
+## 💡 Key Features
+1. **에그 부스팅 (디지털/신체 디톡스)**
+   - 1시간 집중 타이머 및 스마트폰 엎어두기 감지 (스누즈 찬스 제공)
+   - 밤 10시~새벽 4시 야식 방어 모드 (참기 인증 시 보상 지급)
+2. **소속감 기반 학과 대항전 (에그스팟)**
+   - 디톡스 활동으로 모은 XP로 학과 랭킹 경쟁 및 캠퍼스 내 NFC 태깅 인증
+3. **커뮤니티 & 상생 생태계**
+   - **반숙 피드**: 감정 표정 기반 갓생 인증 커뮤니티
+   - **에그 마켓**: 자취생 생필품/식료품 무료 나눔 장터
+   - **XP 교환소**: 모은 포인트로 소상공인 할인 쿠폰 교환 및 결식아동 기부 연동
+
+---
+
+## 📊 Summary Slides (주요 장표)
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="슬라이드_이미지_URL_1" alt="Why Now & Problem" width="100%">
+      <br>
+      <sub><b>01. 대학생 3대 디톡스 필요성</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="슬라이드_이미지_URL_2" alt="FGI Insights" width="100%">
+      <br>
+      <sub><b>02. FGI 및 사용자 인사이트</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="슬라이드_이미지_URL_3" alt="Egg Boosting" width="100%">
+      <br>
+      <sub><b>03. 에그 부스팅 (집중 타이머)</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="슬라이드_이미지_URL_4" alt="Campus Green Race" width="100%">
+      <br>
+      <sub><b>04. 학과 대항전 & NFC 에그스팟</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="슬라이드_이미지_URL_5" alt="Community & Market" width="100%">
+      <br>
+      <sub><b>05. 반숙 피드 & 에그 마켓</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="슬라이드_이미지_URL_6" alt="Ecosystem Strategy" width="100%">
+      <br>
+      <sub><b>06. 선순환 상생 에코시스템</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Expansion Roadmap
+- **1단계 (1~6개월)**: 거점 대학(한국외대 등) MVP 테스트 및 NFC 스팟 30곳 구축
+- **2단계 (7~18개월)**: 수도권 주요 10개 대학 확장 및 제휴처 300개소 확보
+- **3단계 (19~36개월)**: 전국 대학 확대 및 지자체/대기업 ESG 공식 파트너십 체결
 
 
 
