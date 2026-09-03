@@ -39,7 +39,7 @@
 
 ---
 
-## PPT
+## MAIN PPT
 [에그_compressed.pdf](https://github.com/user-attachments/files/31798995/_compressed.pdf)
 
 
@@ -49,4 +49,4 @@
 - **3단계 (19~36개월)**: 전국 대학 확대 및 지자체/대기업 ESG 공식 파트너십 체결
 
 ---
-> 작성일자: 26.07.30
+> 작성일자: 26.07.30, 동기 2인과 함께함.
