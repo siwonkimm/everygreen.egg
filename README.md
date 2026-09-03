@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 Slides
+## 📊 main Slides
 
 <img width="4000" height="2250" alt="에그_compressed_page-0017" src="https://github.com/user-attachments/assets/7c52a91b-b869-4288-b107-10956607bbb3" />
 <img width="4000" height="2250" alt="에그_compressed_page-0018" src="https://github.com/user-attachments/assets/00040d3a-80c3-4e04-80ea-6366468b36ca" />
