@@ -37,6 +37,12 @@
 <img width="4000" height="2250" alt="에그_compressed_page-0026" src="https://github.com/user-attachments/assets/78a96995-b79a-4b9b-b8c1-4458059c8808" />
 <img width="4000" height="2250" alt="에그_compressed_page-0027" src="https://github.com/user-attachments/assets/6d5801c1-1dcd-4dde-9b01-2762caf99a9f" />
 
+---
+
+## PPT
+[에그_compressed.pdf](https://github.com/user-attachments/files/31798995/_compressed.pdf)
+
+
 ## 🚀 Expansion Roadmap
 - **1단계 (1~6개월)**: 거점 대학(한국외대 등) MVP 테스트 및 NFC 스팟 30곳 구축
 - **2단계 (7~18개월)**: 수도권 주요 10개 대학 확장 및 제휴처 300개소 확보
