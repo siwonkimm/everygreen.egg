@@ -30,14 +30,13 @@
 <img width="4000" height="2250" alt="에그_compressed_page-0018" src="https://github.com/user-attachments/assets/00040d3a-80c3-4e04-80ea-6366468b36ca" />
 <img width="4000" height="2250" alt="에그_compressed_page-0019" src="https://github.com/user-attachments/assets/1f2aee3e-9375-47e6-af62-e7ca32b486d9" />
 <img width="4000" height="2250" alt="에그_compressed_page-0020" src="https://github.com/user-attachments/assets/106d5037-941a-43d4-bfa1-1381fe60764d" />
+<img width="4000" height="2250" alt="에그_compressed_page-0021" src="https://github.com/user-attachments/assets/07b27a38-2548-4c64-9df2-01c1edf96d48" />
 <img width="4000" height="2250" alt="에그_compressed_page-0022" src="https://github.com/user-attachments/assets/67ea8fea-fe55-4c31-b873-4a76359f4c5f" />
 <img width="4000" height="2250" alt="에그_compressed_page-0023" src="https://github.com/user-attachments/assets/c809983e-0868-4654-baa5-09072d9a0c0c" />
 <img width="4000" height="2250" alt="에그_compressed_page-0024" src="https://github.com/user-attachments/assets/40110430-8c56-42c5-90de-00eb417540ad" />
+<img width="4000" height="2250" alt="에그_compressed_page-0025" src="https://github.com/user-attachments/assets/6eaa8e9d-4c68-47b4-8c85-9b58bb6efe5b" />
+<img width="4000" height="2250" alt="에그_compressed_page-0026" src="https://github.com/user-attachments/assets/78a96995-b79a-4b9b-b8c1-4458059c8808" />
 <img width="4000" height="2250" alt="에그_compressed_page-0027" src="https://github.com/user-attachments/assets/6d5801c1-1dcd-4dde-9b01-2762caf99a9f" />
-<img width="4000" height="2250" alt="에그_compressed_page-0026" src="https://github.com/user-attachments/assets/78a96995-b79a-4b9b-b8c1-4458059c8808" />
-<img width="4000" height="2250" alt="에그_compressed_page-0025" src="https://github.com/user-attachments/assets/6eaa8e9d-4c68-47b4-8c85-9b58bb6efe5b" />
-
-
 
 ## 🚀 Expansion Roadmap
 - **1단계 (1~6개월)**: 거점 대학(한국외대 등) MVP 테스트 및 NFC 스팟 30곳 구축
